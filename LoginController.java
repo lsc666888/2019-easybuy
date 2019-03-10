@@ -20,7 +20,7 @@ public class LoginController {
     private LoginService loginService;
 
     /**
-     * 登录
+     * 登录校验
      * @param username
      * @param pwd
      */
